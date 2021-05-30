@@ -3,12 +3,12 @@ This repository contains code used for utilizing machine-learning models to desi
 # Contents
 # Requirements
 * python 3.7.4, including the following packages
-* numpy 1.17.2
-* scikit-learn 0.21.3
-* scipy 1.2.1
-* matplotlib 3.1.3
-* pandas 1.0.3
-* 
-* 
+  * numpy 1.17.2
+  * scikit-learn 0.21.3
+  * scipy 1.2.1
+  * matplotlib 3.1.3
+  * pandas 1.0.3
 # Installation Guide
-The contents are availabel on GitHub
+* The contents are available on GitHub at https://github.com/jgreenhalgh2/UCB_optimization_ACRs
+* The scripts used in this repository take very little time to download and run.
+
