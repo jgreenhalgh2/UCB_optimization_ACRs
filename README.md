@@ -1,11 +1,14 @@
-# UCB_optimization_ACRs
-## Overview
+# Overview
 This repository contains code used for utilizing machine-learning models to design enzyme sequences with improved activity. The models rely on upper confidence bound (UCB) optimization, a strategy that balances exploiting regions of the sequence-function landscape that are highly active, and exploring new regions of the landscape.
-## Contents
-## Requirements
-Python 3
-numpy
-scipy
-sklearn
-## Installation Guide
+# Contents
+# Requirements
+* python 3.7.4, including the following packages
+* numpy 1.17.2
+* scikit-learn 0.21.3
+* scipy 1.2.1
+* matplotlib 3.1.3
+* pandas 1.0.3
+* 
+* 
+# Installation Guide
 The contents are availabel on GitHub
